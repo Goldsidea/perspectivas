@@ -1,0 +1,47 @@
+
+CURSO DE INTRODUCCIÓN AL DESARROLLO WEB: HTML Y CSS (1/2): MÓDULO 3/5
+Cómo se escribe una página web
+
+Video 6:  Donde se inicia a escribir lo básico
+
+
+CURSO  Fundamentos de Desarrollo Web desde Cero (David GArcía)
+https://www.youtube.com/watch?v=z_xKxiGz3Eo
+
+Etiqueta <!DOCTYPE html>
+https://www.youtube.com/watch?v=I7WqR0sMj54
+
+
+
+Enlaces en HTML
+https://www.youtube.com/watch?v=d7t6mbfCS9E
+
+
+
+
+
+
+SITIOS AYUDA CON EL PROTOTIPADO O DISEÑO VISUAL
+
+
+CSS Syntax para elegir el estilo de la fuente (letra)
+
+https://www.w3schools.com/cssref/pr_font_font-family.asp
+font-family: family-name|generic-family|initial|inherit;
+Property Values
+Value	Description	Demo
+family-name / generic-family	A prioritized list of font family names and/or generic family names	
+initial	Sets this property to its default value. Read about initial	
+inherit	Inherits this property from its parent element. Read about inherit
+
+
+https://design.tutsplus.com/articles/50-great-photoshop-tutorials-for-clever-beginners--psd-785
+https://www.webdesign-inspiration.com/
+
+Paleta de colores en Html
+https://htmlcolorcodes.com/
+
+W3C en español 
+Tutorial de CSS
+Comenzando con HTML + CSS
+https://www.w3.org/Style/Examples/011/firstcss.es.html
